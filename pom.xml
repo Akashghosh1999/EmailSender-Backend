@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>emailsenderapp</groupId>
-	<artifactId>test</artifactId>
+	<artifactId>EmailSender</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>test</name>
 	<description>emailsenderapp project for Spring Boot</description>
